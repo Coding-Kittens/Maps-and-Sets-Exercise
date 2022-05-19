@@ -1,0 +1,13 @@
+Quick Question #1
+It returns,
+[1,2,3,4]
+
+Quick Question #2
+It returns,
+refr
+
+Quick Questions #3
+Map m looks like,
+
+0: {Array(3) => true}
+1: {Array(3) => false}
